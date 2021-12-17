@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning latest technologies.
 - 👯 I’m looking to collaborate on startups.
 - 🤔 I’m looking for help with Research Papers. 
-- 💬 Ask me about Python,C,C++ . 
+- 💬 Ask me about Python,C,C++,DSA . 
 - 📫 How to reach me: Linkedin :https://www.linkedin.com/in/goyal-aakriti/
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can sleep more than my own expectations. 
